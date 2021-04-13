@@ -1,11 +1,12 @@
 ### Hola! 👋
-Me llamo Albero y soy estudiante de 2º de Ingeniería Informática en la Universidad de León
+Me llamo **Alberto** y soy estudiante de 2º de Ingeniería Informática en la Universidad de León.
+
 Actualmente se porgrama en los siguientes lenguajes:
   - Java
   - C
   - C++
-# Contacto
-  - @amigueldiez en Twitter, Instagram y Telegram
+### Contacto
+  - **@amigueldiez** en Twitter, Instagram y Telegram
   - <albertomiguel24@gmail.com>
 
 
