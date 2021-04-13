@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hola! 👋
+Me llamo Albero y soy estudiante de 2º de Ingeniería Informática en la Universidad de León
+Actualmente se porgrama en los siguientes lenguajes:
+  - Java
+  - C
+  - C++
+# Contacto
+  - @amigueldiez en Twitter, Instagram y Telegram
+  - <albertomiguel24@gmail.com>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amigueldiez&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amigueldiez)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **amigueldiez/amigueldiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
