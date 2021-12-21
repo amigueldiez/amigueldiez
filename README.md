@@ -1,7 +1,7 @@
 ### Hola! 👋
 Me llamo **Alberto** y soy estudiante de 2º de Ingeniería Informática en la Universidad de León.
 
-Actualmente se porgrama en los siguientes lenguajes:
+Actualmente se programar en los siguientes lenguajes:
   - Java
   - C
   - C++
