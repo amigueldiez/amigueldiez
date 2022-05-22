@@ -5,6 +5,8 @@ Actualmente se programar en los siguientes lenguajes:
   - Java
   - C
   - C++
+  - Python
+
 ### Contacto
   - **@amigueldiez** en Twitter, Instagram y Telegram
   - <albertomiguel24@gmail.com>
