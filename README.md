@@ -9,7 +9,7 @@ Actualmente se programar en los siguientes lenguajes:
 
 ### Contacto
   - **@amigueldiez** en Twitter, Instagram y Telegram
-  - <albertomiguel24@gmail.com>
+  - albertomiguel24[at]gmail.com
 
 
 
