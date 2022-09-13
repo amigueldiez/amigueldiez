@@ -1,5 +1,5 @@
 ### Hola! 👋
-Me llamo **Alberto** y soy estudiante de 3º de Ingeniería Informática en la Universidad de León.
+Me llamo **Alberto** y soy estudiante de 4º de Ingeniería Informática en la Universidad de León.
 
 Actualmente se programar en los siguientes lenguajes:
   - Java
