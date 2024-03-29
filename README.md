@@ -1,16 +1,18 @@
-### Hola! 👋
-Me llamo **Alberto** y soy estudiante del Máster Universitario en Investigación en Ciberseguridad en la Universidad de León.
+### Hi! 👋
+My name is **Alberto** and I am a student of the Master in Cybersecurity Research at the University of León.
 
-Además, trabajo como **Técnico Superior de Investigación en Ciberseguridad** en el [Grupo de Robótica de la Universidad de León](https://robotica.unileon.es) investigando en varios proyectos de I+D+i financiados por el Instituto Nacional de Ciberseguridad de España.
+In addition, I work as a **Superior Cybersecurity Research Technician** at the [Robotics Group of the University of León](https://robotica.unileon.es) researching in several R&D projects funded by the Spanish National Institute of Cybersecurity.
 
 
 
-### ¿Quieres hablar conmigo?
-Puedes contactarme a través de los siguientes canales:
-  - **@amigueldiez** en Twitter, Instagram y Telegram
-  - albertomiguel24[at]gmail.com
+### Do you want to talk to me?
+You can contact me through the following channels:
+ - **@amigueldiez** on Twitter, Instagram and Telegram.
+ - albertomiguel24[at]gmail.com
 
-> ⚠️  *¿Necesitas contactar conmigo con un email cifrado?* Solicitame por email que te envíe mi clave PGP pública
+> ⚠️ *Do you need to contact me with an encrypted email?* Ask me by email to send you my public PGP key.
+
+
 
 
 <!--
