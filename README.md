@@ -1,16 +1,16 @@
 ### Hola! 👋
-Me llamo **Alberto** y soy estudiante de 4º de Ingeniería Informática en la Universidad de León.
+Me llamo **Alberto** y soy estudiante del Máster Universitario en Investigación en Ciberseguridad en la Universidad de León.
 
-Actualmente se programar en los siguientes lenguajes:
-  - Java
-  - C
-  - C++
-  - Python
+Además, trabajo como **Técnico Superior de Investigación en Ciberseguridad** en el [Grupo de Robótica de la Universidad de León](https://robotica.unileon.es) investigando en varios proyectos de I+D+i financiados por el Instituto Nacional de Ciberseguridad de España.
 
-### Contacto
+
+
+### ¿Quieres hablar conmigo?
+Puedes contactarme a través de los siguientes canales:
   - **@amigueldiez** en Twitter, Instagram y Telegram
   - albertomiguel24[at]gmail.com
 
+> ⚠️  *¿Necesitas contactar conmigo con un email cifrado?* Solicitame por email que te envíe mi clave PGP pública
 
 
 <!--
