@@ -1,5 +1,5 @@
 ### Hi! 👋
-My name is **Alberto** and I am a student of the Master in Cybersecurity Research at the University of León.
+My name is **Alberto** and I am a PhD student at the University of León.
 
 In addition, I work as a **Superior Cybersecurity Research Technician** at the [Robotics Group of the University of León](https://robotica.unileon.es) researching in several R&D projects funded by the Spanish National Institute of Cybersecurity.
 
