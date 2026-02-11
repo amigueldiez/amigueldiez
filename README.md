@@ -1,16 +1,18 @@
 ### Hi! 👋
 My name is **Alberto** and I am a PhD student at the University of León.
 
-In addition, I work as a **Superior Cybersecurity Research Technician** at the [Robotics Group of the University of León](https://robotica.unileon.es) researching in several R&D projects funded by the Spanish National Institute of Cybersecurity.
+In addition, I work as a **Researcher** at the [Robotics Group of the University of León](https://robotica.unileon.es) with a FPU fellowship from the _Ministerio de Ciencia, Innovación y Universidades_.
 
 
 
 ### Do you want to talk to me?
 You can contact me through the following channels:
- - **@amigueldiez** on Twitter, Instagram and Telegram.
+ - [LinkedIn](https://www.linkedin.com/in/albertomigueldiez/)
  - albertomiguel24[at]gmail.com
 
 > ⚠️ *Do you need to contact me with an encrypted email?* Ask me by email to send you my public PGP key.
+
+More info in my [web](https://amigueldiez.github.io/).
 
 
 
